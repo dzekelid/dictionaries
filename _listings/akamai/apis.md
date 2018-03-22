@@ -20,9 +20,9 @@ tags:
 - Bots
 - Applications
 - API LIfeycle
-created: "2018-03-15"
-modified: "2018-03-15"
-url: https://raw.githubusercontent.com/streamdata-gallery/dictionary/master/_listings/akamai/apis.yaml
+created: "2018-03-21"
+modified: "2018-03-21"
+url: https://raw.githubusercontent.com/streamdata-gallery-topics/dictionaries/master/_listings/akamai/apis.yaml
 specificationVersion: "0.14"
 apis:
 - name: Akamai API
@@ -30,10 +30,10 @@ apis:
   image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Akamai_Technologies,_Inc._Logo.png
   humanURL: ""
   baseURL: https:///
-  tags: Dictionary
+  tags: Dictionaries
   properties:
   - type: x-openapi-spec
-    url: https://raw.githubusercontent.com/streamdata-gallery/dictionary/master/_listings/akamai/lds-v1-dictionaries-dictionaryname-validation-data-get.md
+    url: https://raw.githubusercontent.com/streamdata-gallery-topics/dictionaries/master/_listings/akamai/lds-v1-dictionaries-dictionaryname-validation-data-get.md
 x-common:
 - type: x-base
   url: https://api.ccu.akamai.com
